@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://gustavarendd.github.io/QR-Code-Challenge/]
+- Live Site URL: [https://gustavarendd.github.io/QR-Code-Challenge/]
 
 ### Built with
 
@@ -14,6 +14,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Gustav Rasmussen](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Portfolio](https://soft-biscuit-e04604.netlify.app/)
+- Frontend Mentor - [@Gustavarendd](https://www.frontendmentor.io/profile/Gustavarendd)
